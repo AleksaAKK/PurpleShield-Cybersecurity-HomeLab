@@ -46,6 +46,14 @@ flowchart TD
     C -->|SSH Public Key| D
     C -->|Nmap Security Scan| D
 ```
+### Visuelle Netzwerkarchitektur
+
+![PurpleShield Netzwerkarchitektur](purpleshield-network-architecture.png)
+
+*Logische Darstellung der virtuellen Laborumgebung. Weiterführende Systemhärtung und Zugriffsbeschränkungen sind Bestandteil zukünftiger Projektphasen.*
+
+
+
 ## 📚 Technische Projektdokumentation
 
 Die einzelnen Projektphasen werden in separaten Dokumentationen ausführlich beschrieben.
