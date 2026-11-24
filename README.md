@@ -1,5 +1,6 @@
 # 🛡️ PurpleShield – Cybersecurity HomeLab
 
+![PurpleShield Cybersecurity HomeLab](purpleshield-banner.png)
 ![Status](https://img.shields.io/badge/Status-In%20Development-purple)
 ![Platform](https://img.shields.io/badge/Platform-VirtualBox-blue)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-purple)
