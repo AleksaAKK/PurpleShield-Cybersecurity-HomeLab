@@ -46,6 +46,37 @@ flowchart TD
     C -->|SSH Public Key| D
     C -->|Nmap Security Scan| D
 ```
+## 📚 Technische Projektdokumentation
+
+Die einzelnen Projektphasen werden in separaten Dokumentationen ausführlich beschrieben.
+
+| Nr. | Dokumentation | Inhalt | Status |
+|---|---|---|---|
+| 01 | [Projektplanung](docs/01-project-planning.md) | IST-Analyse, SOLL-Konzept, Anforderungen und Risikoanalyse | ✅ |
+| 02 | [Virtualisierung](docs/02-virtualization.md) | VirtualBox, Kali Linux und Ubuntu Desktop | ✅ |
+| 03 | [Netzwerkkonfiguration](docs/03-network-configuration.md) | NAT, IP-Konfiguration, Routing und Netzwerkdiagnose | ✅ |
+| 04 | [NetBird-Integration](docs/04-netbird-setup.md) | WireGuard, VPN und private Overlay-Netzwerke | ✅ |
+| 05 | [SSH-Konfiguration](docs/05-ssh-configuration.md) | OpenSSH, ED25519 und Public-Key-Authentifizierung | ✅ |
+| 06 | [Netzwerkanalyse](docs/06-network-scanning.md) | Nmap, TCP/UDP, Portanalyse und Sicherheitsbewertung | ✅ |
+| 07 | [Troubleshooting](docs/07-troubleshooting.md) | Fehleranalyse, Lösungsmaßnahmen und Lessons Learned | ✅ |
+
+## 🚀 PurpleShield Development Roadmap
+
+| Level | Schwerpunkt | Status |
+|---|---|---|
+| Level 01 | Virtual Infrastructure & Networking | 🟡 Validierung und Dokumentation |
+| Level 02 | Linux System Hardening | ⚪ Geplant |
+| Level 03 | Firewall & Network Segmentation | ⚪ Geplant |
+| Level 04 | System Administration & Automation | ⚪ Geplant |
+| Level 05 | Vulnerability Assessment | ⚪ Geplant |
+| Level 06 | Security Monitoring & SIEM | ⚪ Geplant |
+| Level 07 | Enterprise Security Infrastructure | ⚪ Geplant |
+
+**Statuslegende:**  
+✅ Dokumentiert · 🟡 In Bearbeitung · ⚪ Geplant
+
+---
+
 
 ## 05 | Implementierung
 
