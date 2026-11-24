@@ -68,6 +68,17 @@ Die einzelnen Projektphasen werden in separaten Dokumentationen ausführlich bes
 | 06 | [Netzwerkanalyse](docs/06-network-scanning.md) | Nmap, TCP/UDP, Portanalyse und Sicherheitsbewertung | ✅ |
 | 07 | [Troubleshooting](docs/07-troubleshooting.md) | Fehleranalyse, Lösungsmaßnahmen und Lessons Learned | ✅ |
 
+## 🔬 Technische Nachweise und Validierung
+
+Die praktische Umsetzung der Laborumgebung wird durch anonymisierte Screenshots, Terminalausgaben und technische Testprotokolle dokumentiert.
+
+➡️ [Technische Nachweise und Testprotokolle](evidence/README.md)
+
+Die Validierung umfasst Virtualisierung, Netzwerkkommunikation, VPN-Verbindungen, SSH-Authentifizierung und Netzwerkanalyse.
+
+**Aktueller Status:** Technische Nachweise in Vorbereitung.
+
+
 ## 🚀 PurpleShield Development Roadmap
 
 | Level | Schwerpunkt | Status |
